@@ -1,5 +1,5 @@
 {
-  "name": "tweetbag_backend",
+  "name": "tweetbag-backend",
   "version": "1.0.0",
   "description": "Tweetbag Blockchain Web 3.0 Social Media App Backend in NodeJS - Express Framework & MongoDB Database",
   "main": "index.js",
